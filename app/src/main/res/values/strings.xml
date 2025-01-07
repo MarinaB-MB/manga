@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">manga</string>
+
+    <string name="manga_type">Manga</string>
+</resources>
